@@ -129,7 +129,7 @@
 
 ## 授權條款
 
-[姓名標示-非商業性-禁止改作 4.0 國際 (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg "姓名標示-非商業性-禁止改作 4.0 國際")](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)
 
 ## 相關資源
 

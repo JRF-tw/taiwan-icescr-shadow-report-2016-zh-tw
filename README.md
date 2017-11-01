@@ -134,3 +134,4 @@
 ## 相關資源
 
 * [PDF](pdf/2016經社文公約施行影子報告.pdf)
+* [Gitbook](https://www.gitbook.com/book/jrf-tw/taiwan-icescr-shadow-report-2016-zh-tw/)

@@ -127,6 +127,10 @@
 * 塭仔圳反迫遷連線 Wen Zi Zhen Anti-Eviction Alliance
 * 苑里反瘋車自救會 Yuanli Self-Help Group
 
+## 授權條款
+
+[姓名標示-非商業性-禁止改作 4.0 國際 (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)
+
 ## 相關資源
 
 * [PDF](pdf/2016經社文公約施行影子報告.pdf)

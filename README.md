@@ -126,4 +126,7 @@
 * 工作貧窮與租稅政策研究室 Working poor & Tax Policy Research Center
 * 塭仔圳反迫遷連線 Wen Zi Zhen Anti-Eviction Alliance
 * 苑里反瘋車自救會 Yuanli Self-Help Group
- 
+
+## 相關資源
+
+* [PDF](pdf/2016經社文公約施行影子報告.pdf)
